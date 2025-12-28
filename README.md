@@ -35,6 +35,7 @@ Este laboratorio está diseñado para mantener un coste muy bajo:
 - Posibilidad de destruir y recrear los recursos en cualquier momento
 
 ## Estructura del proyecto
+ ```
 azure-minilab-vm/
 ├─ terraform/
 │  ├─ main.tf
@@ -46,6 +47,7 @@ azure-minilab-vm/
 ├─ diagrams/
 │  └─ architecture.mmd
 └─ README.md
+```
 
 ## Uso del proyecto
 El código Terraform se añadirá en el siguiente paso del proyecto.
