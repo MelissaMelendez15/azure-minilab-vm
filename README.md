@@ -37,14 +37,14 @@ Este laboratorio está diseñado para mantener un coste muy bajo:
 ## Estructura del proyecto
 azure-minilab-vm/
 ├─ terraform/
-│ ├─ main.tf
-│ ├─ variables.tf
-│ ├─ outputs.tf
-│ ├─ providers.tf
-│ └─ versions.tf
-├─ ansible/ # opcional (fase futura)
+│  ├─ main.tf
+│  ├─ variables.tf
+│  ├─ outputs.tf
+│  ├─ providers.tf
+│  └─ versions.tf
+├─ ansible/          # opcional (fase futura)
 ├─ diagrams/
-│ └─ architecture.mmd
+│  └─ architecture.mmd
 └─ README.md
 
 ## Uso del proyecto
